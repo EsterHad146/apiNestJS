@@ -1,0 +1,13 @@
+Crie seu projeto NestJS 
+Para começar, instale o NestJS CLI e crie o estrutura do seu aplicativo com os seguintes comandos no terminal:
+
+npm install -g @nestjs/cli
+nest new project-name
+
+Executando o aplicativo 
+Após a conclusão do processo de instalação, você pode executar o seguinte comando no prompt de comando do seu sistema operacional para iniciar o aplicativo escutando solicitações HTTP de entrada:
+
+npm run start
+
+https://docs.nestjs.com/first-steps
+
