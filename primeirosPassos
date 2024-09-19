@@ -9,5 +9,8 @@ Após a conclusão do processo de instalação, você pode executar o seguinte c
 
 npm run start
 
+Para monitorar alterações em seus arquivos, você pode executar o seguinte comando para iniciar o aplicativo:
+npm run start:dev
+
 https://docs.nestjs.com/first-steps
 
